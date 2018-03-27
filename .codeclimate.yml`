@@ -1,0 +1,4 @@
+plugins:
+  swiftlint:
+    enabled: true
+    channel: "beta"
